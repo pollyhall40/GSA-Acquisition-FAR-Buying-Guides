@@ -4,17 +4,24 @@ There are two main ways you can contribute to this project on GitHub: **forking 
 
 ## Option 1: Forking the Repository
 
-Forking allows you to make direct contributions to the project by editing files, such as this `.MD` file. While it may seem complex at first, using GitHub's website makes it simple.
+Forking allows you to make direct contributions to the project by editing files, such as this `.MD` file. While it may seem complex at first, hopefully this guide makes it easier. We will do our best to continue improving these instructions.
 
 ### Steps to Fork and Contribute:
-1. **Fork the Repository**
+1. **Fork Our Acquisition-FAR-Buying-Guides Repository**
    - Click the "Fork" button in the top-right corner of the repository page.
-   - This creates a copy of the repository in your own GitHub account.
+   - ![image](https://github.com/user-attachments/assets/5c00147e-ce66-4e4f-bcba-7ced773046a4)
+   - ![image](https://github.com/user-attachments/assets/ba90af51-5e53-44b0-8cf0-437fb13fb8bc)
+   - This creates a copy of the repository in your own GitHub account. **Don't forget to click "Sync Fork"  every so often to keep your copy up to date with ours.** You can find this button on the main page of your repository.
+   - ![image](https://github.com/user-attachments/assets/17bddb88-b23b-4882-8c8b-1e7f71260999)
+
 
 2. **Open the `.MD` File to Edit**
    - Navigate to your forked repository.
    - Locate the `.MD` file you want to update.
+   - **Here are some samples of .md you could choose to request edits too.**
+   - ![image](https://github.com/user-attachments/assets/4dc8b9f4-3282-4397-be56-f49bd3f240f8)
    - Click the file to open it, then select the "Edit" (pencil) icon.
+   - ![image](https://github.com/user-attachments/assets/f3a01e2b-2c63-42b1-a839-bf3bacac2815)
 
 3. **Make Your Changes**
    - Edit the content directly in the GitHub web editor.
@@ -23,17 +30,27 @@ Forking allows you to make direct contributions to the project by editing files,
 ### Keep the change limited to one proposed change per pull request
 
 4. **Propose Your Changes**
-   - Scroll down to the "Commit changes" section.
-   - Add a short, clear description of what you updated.
-   - Choose "Commit directly to the `main` branch" or create a new branch.
+   - Click the Green "Commit changes" button.
+   - ![image](https://github.com/user-attachments/assets/f9cfd294-b37d-4832-9435-ae73703020e5)
+   - Add a short, clear description of what you updated. **Copy and save this information and set it aside. You will use it again in Step 5.**
+   - ![image](https://github.com/user-attachments/assets/7fd1edf6-7ce4-492b-bea4-a9b551e9fc5e)
+   - Choose create a new branch and start a pull request **see above screenshot**.
 
 ### Remember: Keep the change limited to one proposed change per pull request
 
 5. **Create a Pull Request**
-   - Navigate back to the main repository (not your fork).
-   - Click "Pull requests" > "New pull request."
-   - Select your fork and branch, then click "Create pull request."
+   - The next page should allow you to review your suggested change.
+   - ![image](https://github.com/user-attachments/assets/a70106a9-94b1-4c86-8a46-8ba1ccf28ad3)
+   - If it looks good click "Create Pull request"
+   - ![image](https://github.com/user-attachments/assets/da05e752-b800-43e6-b637-c94afdecd67a)
+   - Enter the title and description you saved from Step 4 and enter it again.
    - Provide a brief summary of your changes and submit the pull request.
+   - ![image](https://github.com/user-attachments/assets/537ab7f1-5ffe-4b92-a0ff-cd942c25b9cf)
+  
+6. **The Buying Guide Team will review the submission**
+   - The team will work quickly to review comments as quickly as possible.
+   - The team may choose to adopt or reject the change.
+   - If you decide to change your mind, just return to your "Pull Requests" page and close the request.
 
 ## Option 2: Submitting an Issue
 
@@ -46,14 +63,17 @@ If you have a suggestion, question, or idea but don't want to modify the file yo
 ### How to Submit an Issue:
 1. **Go to the Issues Tab**
    - On the repository’s GitHub page, click the "Issues" tab.
+   - ![image](https://github.com/user-attachments/assets/99948fd4-afd0-40de-b223-a73e44dd1fc7)
 
 2. **Click "New Issue"**
    - Click the green "New Issue" button.
+   - ![image](https://github.com/user-attachments/assets/f5220f88-ee7e-499f-abb5-51e930156458)
 
 3. **Describe Your Issue Clearly**
    - Provide a descriptive title.
    - Write a detailed explanation of the issue, including specific sections that need improvement.
    - If applicable, suggest alternative wording or structure.
+   - ![image](https://github.com/user-attachments/assets/532238ce-6bfa-4638-9acb-a4c71303cb92)
 
 4. **Submit the Issue**
    - Click "Submit new issue" and wait for maintainers or contributors to respond.
