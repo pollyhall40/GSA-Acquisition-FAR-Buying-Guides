@@ -12,6 +12,8 @@ SaaS is best when a commercial solution can be used and a customized solution is
 | Impact on Updates | Having vendor updates still work normally. | Having vendor updates break the custom features. |
 | Examples | Setting user permissions, creating dashboards, defining workflow rules. | Building custom integrations, creating entirely new functions, altering core functionality. |
 
+![image](https://github.com/user-attachments/assets/34a0119a-f510-4703-bcb2-e2d19fd922ad)
+
 ## Other Considerations
 ### Compliance and Security Risks
 - FedRAMP compliance issues: Customizations may compromise the baseline security posture that earned FedRAMP authorization in the first place.
