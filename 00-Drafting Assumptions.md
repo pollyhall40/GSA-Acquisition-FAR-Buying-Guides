@@ -1,0 +1,21 @@
+### **Drafting Assumptions**
+
+1. We drafted for web-publication (see techfarhub.cio.gov for a similar webpage look and feel). Later, these guides may be further enhanced into a broader AI-enabled end-to-end acquisition management system.
+
+2. Statutory and prescriptive requirements that apply to all procurements will remain in the FAR Volume 1 (to include cybersecurity, privacy, data rights). They are not included here. Acquisition team members in the FAR System, including representatives from the technical, procurement, and the customers they support are the intended audience of this guide.
+
+3. We do not describe the overarching process that applies to most federal competitive procurements here. Rather, the category-specific buying guides will focus on unique aspects and considerations throughout the procurement process that apply specifically to acquiring products or services within the given category of spend.
+
+4. This SaaS module is our prototype. As such, we may include guidance in this module that is more broadly relevant to IT buying. We do not plan to repeat this guidance across each module. Later, we will include common guidance more appropriately within the overall IT buying guide.
+
+5. We will design the buying guides and associated sections to support interoperability with the regulatory overhaul that will be built around milestones in the acquisition lifecycle: **Pre-Solicitation > Solicitation / Evaluation / Award > Post Award**.
+
+   However, we plan to start each guide with a section on Important Category-Specific Buying Considerations.
+
+- **Milestone 0: Important Category-Specific Buying Considerations**
+
+- **Milestone 1: Pre-Solicitation**
+
+- **Milestone 2: Solicitation/Evaluation/Award**
+
+- **Milestone 3: Post-Award**
