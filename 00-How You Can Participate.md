@@ -27,7 +27,7 @@ Forking allows you to make direct contributions to the project by editing files,
    - Edit the content directly in the GitHub web editor.
    - Ensure your updates improve clarity, or accuracy.
 
-### Keep the change limited to one proposed change per pull request
+**Keep the change limited to one proposed change per pull request**
 
 4. **Propose Your Changes**
    - Click the Green "Commit changes" button.
@@ -36,7 +36,7 @@ Forking allows you to make direct contributions to the project by editing files,
    - ![image](https://github.com/user-attachments/assets/7fd1edf6-7ce4-492b-bea4-a9b551e9fc5e)
    - Choose create a new branch and start a pull request **see above screenshot**.
 
-### Remember: Keep the change limited to one proposed change per pull request
+**Remember: Keep the change limited to one proposed change per pull request**
 
 5. **Create a Pull Request**
    - The next page should allow you to review your suggested change.
