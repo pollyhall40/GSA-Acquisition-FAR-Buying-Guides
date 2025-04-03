@@ -1,4 +1,4 @@
-### **Drafting Assumptions**
+# Drafting Assumptions
 
 1. We drafted for web-publication (see techfarhub.cio.gov for a similar webpage look and feel). Later, these guides may be further enhanced into a broader AI-enabled end-to-end acquisition management system.
 
@@ -8,14 +8,14 @@
 
 4. This SaaS module is our prototype. As such, we may include guidance in this module that is more broadly relevant to IT buying. We do not plan to repeat this guidance across each module. Later, we will include common guidance more appropriately within the overall IT buying guide.
 
-5. We will design the buying guides and associated sections to support interoperability with the regulatory overhaul that will be built around milestones in the acquisition lifecycle: **Pre-Solicitation > Solicitation / Evaluation / Award > Post Award**.
+5. We understand existing internal agency guidebooks on these topics may exist, which will be informed by this buying guide. An example of such is the [DOD Cloud Acquisition Guidebook (DCAG)](https://www.dau.edu/tools/dod-cloud-acquisition-guidebook).
 
-   However, we plan to start each guide with a section on Important Category-Specific Buying Considerations.
+6. We will design the buying guides and associated sections to support interoperability with the regulatory overhaul that will be built around milestones in the acquisition lifecycle: **Pre-Solicitation > Solicitation / Evaluation / Award > Post Award**.
+
+However, we plan to start each guide with a section on Important Category-Specific Buying Considerations.
 
 - **Milestone 0: Important Category-Specific Buying Considerations**
-
 - **Milestone 1: Pre-Solicitation**
-
 - **Milestone 2: Solicitation/Evaluation/Award**
-
 - **Milestone 3: Post-Award**
+- **Appendices**
