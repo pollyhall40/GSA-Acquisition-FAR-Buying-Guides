@@ -17,12 +17,12 @@ By refining content here in GitHub, we ensure the future site is built on clear,
 
 ## Why GitHub?
 We want an open and interactive way to develop this content. GitHub allows us to:
-- Share drafts of procurement guides.
+- Share drafts of conent for buying guides.
 - Collect comments and suggestions from the acquisition community.
 - Track updates and improvements over time.
 
 ## How You Can Participate
-1. Read the content – Explore the guides in this repository.
+1. Read the content – Explore the content for the buying guides in this repository.
 2. Share feedback – Open an issue or add comments to suggest improvements.
 3. Stay involved – Follow the updates as we refine the content.
 
