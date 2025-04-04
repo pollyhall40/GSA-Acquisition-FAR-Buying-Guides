@@ -2,7 +2,33 @@
 
 There are two main ways you can contribute to this project on GitHub: **forking the repository** and **submitting an issue**. Whether you want to suggest a change or share an idea, your input is valuable!
 
-## Option 1: Forking the Repository
+## Option 1: Submitting an Issue
+
+If you have a suggestion, question, or idea but don't want to modify the file yourself, submitting an issue is a great way to contribute. Issues help maintainers track ideas and discussions.
+
+### When to Submit an Issue:
+- You have a suggestion for improving the guide that requires more context than a pull request.
+- You need clarification on something in the project.
+
+### How to Submit an Issue:
+1. **Go to the Issues Tab**
+   - On the repository’s GitHub page, click the "Issues" tab.
+   - ![image](https://github.com/user-attachments/assets/99948fd4-afd0-40de-b223-a73e44dd1fc7)
+
+2. **Click "New Issue"**
+   - Click the green "New Issue" button.
+   - ![image](https://github.com/user-attachments/assets/f5220f88-ee7e-499f-abb5-51e930156458)
+
+3. **Describe Your Issue Clearly**
+   - Provide a descriptive title.
+   - Write a detailed explanation of the issue, including specific sections that need improvement.
+   - If applicable, suggest alternative wording or structure.
+   - ![image](https://github.com/user-attachments/assets/532238ce-6bfa-4638-9acb-a4c71303cb92)
+
+4. **Submit the Issue**
+   - Click "Submit new issue" and wait for maintainers or contributors to respond.
+
+## Option 2: Forking the Repository
 
 Forking allows you to make direct contributions to the project by editing files, such as this `.MD` file. While it may seem complex at first, hopefully this guide makes it easier. We will do our best to continue improving these instructions.
 
@@ -53,32 +79,6 @@ Forking allows you to make direct contributions to the project by editing files,
    - The team will work quickly to review comments as quickly as possible.
    - The team may choose to adopt or reject the change.
    - If you decide to change your mind, just return to your "Pull Requests" page and close the request.
-
-## Option 2: Submitting an Issue
-
-If you have a suggestion, question, or idea but don't want to modify the file yourself, submitting an issue is a great way to contribute. Issues help maintainers track ideas and discussions.
-
-### When to Submit an Issue:
-- You have a suggestion for improving the guide that requires more context than a pull request.
-- You need clarification on something in the project.
-
-### How to Submit an Issue:
-1. **Go to the Issues Tab**
-   - On the repository’s GitHub page, click the "Issues" tab.
-   - ![image](https://github.com/user-attachments/assets/99948fd4-afd0-40de-b223-a73e44dd1fc7)
-
-2. **Click "New Issue"**
-   - Click the green "New Issue" button.
-   - ![image](https://github.com/user-attachments/assets/f5220f88-ee7e-499f-abb5-51e930156458)
-
-3. **Describe Your Issue Clearly**
-   - Provide a descriptive title.
-   - Write a detailed explanation of the issue, including specific sections that need improvement.
-   - If applicable, suggest alternative wording or structure.
-   - ![image](https://github.com/user-attachments/assets/532238ce-6bfa-4638-9acb-a4c71303cb92)
-
-4. **Submit the Issue**
-   - Click "Submit new issue" and wait for maintainers or contributors to respond.
 
 By forking the repository or submitting issues, you help improve the project for everyone. Thank you for contributing!
 
