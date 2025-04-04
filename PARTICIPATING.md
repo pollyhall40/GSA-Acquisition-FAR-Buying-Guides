@@ -1,4 +1,4 @@
-# Buying Guide Content
+# Buying Guide Material
 
 There are two main ways you can contribute to the content for the Buying Guides on GitHub: **submitting an issue** and **forking the repository.** Whether you want to suggest a change or share an idea, your input is valuable! 
 
