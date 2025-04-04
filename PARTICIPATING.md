@@ -1,14 +1,16 @@
-# How to Participate in This Project
+# Buying Guide Content
 
-There are two main ways you can contribute to this project on GitHub: **forking the repository** and **submitting an issue**. Whether you want to suggest a change or share an idea, your input is valuable!
+There are two main ways you can contribute to the content for the Buying Guides on GitHub: **submitting an issue** and **forking the repository.** Whether you want to suggest a change or share an idea, your input is valuable!
 
-## Option 1: Submitting an Issue
+If you are not familiar with GitHub, we suggest Option 1.
+
+## Option 1: Submitting an Issue (Provide general comments on the content)
 
 If you have a suggestion, question, or idea but don't want to modify the file yourself, submitting an issue is a great way to contribute. Issues help maintainers track ideas and discussions.
 
 ### When to Submit an Issue:
 - You have a suggestion for improving the guide that requires more context than a pull request.
-- You need clarification on something in the project.
+- You need clarification on something in the content.
 
 ### How to Submit an Issue:
 1. **Go to the Issues Tab**
@@ -28,9 +30,9 @@ If you have a suggestion, question, or idea but don't want to modify the file yo
 4. **Submit the Issue**
    - Click "Submit new issue" and wait for maintainers or contributors to respond.
 
-## Option 2: Forking the Repository
+## Option 2: Forking the Content
 
-Forking allows you to make direct contributions to the project by editing files, such as this `.MD` file. While it may seem complex at first, hopefully this guide makes it easier. We will do our best to continue improving these instructions.
+Forking allows you to make direct contributions to the content by editing files, such as this `.MD` file. While it may seem complex at first, hopefully this guide makes it easier. We will do our best to continue improving these instructions.
 
 ### Steps to Fork and Contribute:
 1. **Fork Our Acquisition-FAR-Buying-Guides Repository**
@@ -80,7 +82,7 @@ Forking allows you to make direct contributions to the project by editing files,
    - The team may choose to adopt or reject the change.
    - If you decide to change your mind, just return to your "Pull Requests" page and close the request.
 
-By forking the repository or submitting issues, you help improve the project for everyone. Thank you for contributing!
+By forking the repository or submitting issues, you help improve the content for everyone. Thank you for contributing!
 
 
 
@@ -96,7 +98,7 @@ By forking the repository or submitting issues, you help improve the project for
 - When you’re ready to suggest changes to the original, you can submit a pull request.
 
 **Pull Request ("PR")** → Submits your changes for review and merging into the original.
-- You "request" the original project owner to "pull" in your changes.
+- You "request" the original content owner to "pull" in your changes.
 
 - The owner can review, comment, and either approve or reject your changes.
 
@@ -109,11 +111,11 @@ By forking the repository or submitting issues, you help improve the project for
 
 2. Make changes → Add new information, suggestopms, tips, improvements or typos in your fork.
 
-3. Create a pull request → Suggest your changes to the original project.
+3. Create a pull request → Suggest your changes to the original content.
 
 4. GSA Team Reviews → They review, request changes (if needed), or approve your PR.
 
-5. If the PR is approved, the PR is merged → Your changes become part of the original project.
+5. If the PR is approved, the PR is merged → Your changes become part of the original content.
 
 
 # **Tips for Effective Pull Requests (PRs)**
