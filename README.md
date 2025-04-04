@@ -1,4 +1,4 @@
-# Procurement Buying Guides Content Repository
+# Buying Guides Content Repository
 
 Welcome! This GitHub repository is a place for collaboration and feedback on procurement buying guides. If you're new to GitHub, don't worry - this space isn't for coding. Instead, we use it to transparently develop content _**iteratively**_ that helps federal buyers make informed decisions.
 
