@@ -17,7 +17,7 @@ By refining content here in GitHub, we ensure the future site is built on clear,
 
 ## Why GitHub?
 We want an open and interactive way to develop this content. GitHub allows us to:
-- Share drafts of conent for buying guides.
+- Share drafts of content for buying guides.
 - Collect comments and suggestions from the acquisition community.
 - Track updates and improvements over time.
 
