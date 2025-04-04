@@ -8,9 +8,11 @@ Forking allows you to make direct contributions to the project by editing files,
 
 ### Steps to Fork and Contribute:
 1. **Fork Our Acquisition-FAR-Buying-Guides Repository**
-   - Click the "Fork" button in the top-right corner of the repository page.
-   - ![image](https://github.com/user-attachments/assets/5c00147e-ce66-4e4f-bcba-7ced773046a4)
-   - ![image](https://github.com/user-attachments/assets/ba90af51-5e53-44b0-8cf0-437fb13fb8bc)
+- Click the "Fork" button in the top-right corner of the repository page.
+  
+![image](https://github.com/user-attachments/assets/5c00147e-ce66-4e4f-bcba-7ced773046a4)
+     
+![image](https://github.com/user-attachments/assets/ba90af51-5e53-44b0-8cf0-437fb13fb8bc)
    - This creates a copy of the repository in your own GitHub account. **Don't forget to click "Sync Fork"  every so often to keep your copy up to date with ours.** You can find this button on the main page of your repository.
    - ![image](https://github.com/user-attachments/assets/17bddb88-b23b-4882-8c8b-1e7f71260999)
 
